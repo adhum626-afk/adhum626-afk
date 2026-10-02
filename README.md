@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Adhum 👋
 
-<!--
-**adhum626-afk/adhum626-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 13 year old student learning programming,
+AI and cybersecurity.
 
-Here are some ideas to get you started:
+## 💻 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+
+## 🚀 Projects
+
+🔹 Quiz Game
+A Python quiz game I built while learning functions.
+
+🔹 Study Planner
+A web application I'm building to help students organise revision.
+
+🔹 Weather App
+A JavaScript project using an API.
+
+## 🏆 Achievements
+
+- School coding club
+
+## 📚 Currently working on
+
+My next project: A small game to have fun
+
+## 🔗 Links
+
+GitHub: 
+Portfolio website: 
